@@ -12,8 +12,7 @@ Its an expense app/ sandbox of the following topics. It explores adding multiple
 
 
 ### Screenshots:
-
-![Home Image](./expenseApp/Assets.xcassets/home.imageset/home.png)
-![AddItem Image](./expenseApp/Assets.xcassets/additem.imageset/additem.png)
-![PostAdd Image](./expenseApp/Assets.xcassets/postadd.imageset/postadd.png)
-![Delete Image](./expenseApp/Assets.xcassets/delete.imageset/delete.png)
+<img src="./expenseApp/Assets.xcassets/home.imageset/home.png" alt="Home Image" style="max-width: 400px;">
+<img src="./expenseApp/Assets.xcassets/additem.imageset/additem.png" alt="Add Image" style="max-width: 400px;">
+<img src="./expenseApp/Assets.xcassets/postadd.imageset/postadd.png" alt="PostAdd Image" style="max-width: 400px;">
+<img src="./expenseApp/Assets.xcassets/delete.imageset/delete.png" alt="Delete Image" style="max-width: 400px;">
