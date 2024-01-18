@@ -15,4 +15,4 @@ Its an expense app/ sandbox of the following topics. It explores adding multiple
 ![Home Image](./expenseApp/Assets.xcassets/home.imageset/home.png)
 ![AddItem Image](./expenseApp/Assets.xcassets/additem.imageset/additem.png)
 ![PostAdd Image](./expenseApp/Assets.xcassets/postadd.imageset/postadd.png)
-![Delete Image](./expenseApp/Assets.xcassets/delete.imageset/delete.png)
+![Delete Image](./expenseApp/Assets.xcassets/deleteitem.imageset/deleteitem.png)
